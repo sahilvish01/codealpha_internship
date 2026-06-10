@@ -19,7 +19,7 @@ A fully functional web-based calculator that performs fundamental arithmetic ope
 * **Clean UI:** A minimalist and distraction-free user interface designed with CSS Flexbox.
 
 ## 🌐 Live Demo
-* **View the Live Project here:** [Calculator Project](https://sahilvish01.github.io/codealpha_internship/)
+* **View the Live Project here:** [Calculator Project](https://sahilvish01.github.io/CodeAlpha_Calculator/)
 
 ## 🚀 Setup & Installation (Local Development)
 
